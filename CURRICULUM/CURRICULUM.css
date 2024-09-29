@@ -26,6 +26,8 @@ header {
 main {
     background-color: #DEDBE9;
     display: flex;
+    flex-direction: column;
+    text-align: left;
 }
 
 #perfil {
